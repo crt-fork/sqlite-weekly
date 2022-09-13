@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQLite Weekly</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="container">
+    <section class="storey">
+        <h1>Get weekly SQLite news, articles and extensions ✨</h1>
+        <pre id="query"
+            class="query"><code>select * from sqlite_weekly limit 10;</code> <button id="query-exec" class="query-exec">run</button></pre>
+        <ul id="query-result" class="query-result hidden"></ul>
+        <p>
+            Every week I publish important news, notable articles, handy extensions,
+            tricky questions, useful code samples and other awesome SQLite-related stuff.
+        </p>
+        <p>Watch the GitHub repo to get an email when the next issue is published.</p>
+        <p>
+            <a class="button" href="https://github.com/nalgeon/sqlite-weekly">Watch the repo</a>
+             or <a href="https://github.com/nalgeon/sqlite-weekly/releases/latest">read the latest issue</a>
+        </p>
+    </section>
+    <script type="module" src="app.js"></script>
+</body>
+
+</html>

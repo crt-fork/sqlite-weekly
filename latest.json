@@ -1,0 +1,38 @@
+{
+    "number": "22.37",
+    "url": "https://github.com/nalgeon/sqlite-weekly/releases/22.37",
+    "items": [
+        {
+            "title": "How the SQLite virtual machine works",
+            "url": "https://fly.io/blog/sqlite-virtual-machine/",
+            "author": "Ben Johnson"
+        },
+        {
+            "title": "sqlean-define: User-Defined Functions in SQLite",
+            "url": "https://github.com/nalgeon/sqlean/blob/main/docs/define.md",
+            "author": "Anton Zhiyanov"
+        },
+        {
+            "title": "sqlite-url: Parsing and generating URLs",
+            "url": "https://github.com/asg017/sqlite-url",
+            "author": "Alex Garcia"
+        },
+        {
+            "title": "Marmot: A distributed SQLite replicator",
+            "url": "https://github.com/maxpert/marmot",
+            "author": "Zohaib Sibte Hassan"
+        },
+        {
+            "title": "Dense vector search in SQLite?",
+            "url": "https://sqlite.org/forum/forumpost/3f6ddc34dc"
+        },
+        {
+            "title": "UPSERT language feature",
+            "url": "https://sqlite.org/lang_upsert.html"
+        },
+        {
+            "title": "How SQLite Is Tested",
+            "url": "https://www.sqlite.org/testing.html"
+        }
+    ]
+}
