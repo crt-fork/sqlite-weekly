@@ -4,7 +4,7 @@ const ui = {
 };
 
 function onExec() {
-    fetch("latest.json")
+    fetch("assets/latest.json")
         .then((response) => response.json())
         .then((issue) => showResult(issue));
 }
