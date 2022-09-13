@@ -348,3 +348,10 @@ body {
         opacity: 1;
     }
 }
+
+#how {
+    animation: fadein 0.5s;
+}
+#how:target {
+    display: block;
+}
