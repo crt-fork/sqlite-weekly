@@ -9,4 +9,4 @@ Watch this repo to get an email when the next issue is published:
 
 Make sure to choose _Custom > Releases_ in the _Notifications_ dropdown.
 
-[read the latest issue](https://github.com/nalgeon/sqlite-weekly/releases/latest)
+[Latest issue](https://github.com/nalgeon/sqlite-weekly/releases/latest) • [RSS](https://github.com/nalgeon/sqlite-weekly/releases.atom)

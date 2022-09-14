@@ -350,8 +350,21 @@ body {
 }
 
 #how {
-    animation: fadein 0.5s;
+    animation: fadein 0.2s;
 }
 #how:target {
     display: block;
+}
+
+.links > span {
+    display: block;
+    margin-right: 0;
+    margin-bottom: 1rem;
+}
+@media only screen and (min-width: 40em) {
+    .links > span {
+        display: inline-block;
+        margin-right: 1rem;
+        margin-bottom: 0;
+    }
 }
