@@ -1,38 +1,33 @@
 {
-    "number": "22.37",
-    "url": "https://github.com/nalgeon/sqlite-weekly/releases/22.37",
+    "number": "22.38",
+    "url": "https://github.com/nalgeon/sqlite-weekly/releases/22.38",
     "items": [
         {
-            "title": "How the SQLite virtual machine works",
-            "url": "https://fly.io/blog/sqlite-virtual-machine/",
-            "author": "Ben Johnson"
+            "title": "Recipes from Python SQLite docs",
+            "url": "https://rednafi.github.io/reflections/recipes-from-python-sqlite-docs.html",
+            "author": "Redowan Delowar"
         },
         {
-            "title": "sqlean-define: User-Defined Functions in SQLite",
+            "title": "Executing one statement within another",
+            "url": "https://sqlite.org/forum/forumpost/759ef93bd0b17b6f"
+        },
+        {
+            "title": "Temporary Tables in Triggers",
+            "url": "https://sqlite.org/forum/forumpost/303617bd7b398437"
+        },
+        {
+            "title": "Faster user-defined functions in SQLite",
             "url": "https://github.com/nalgeon/sqlean/blob/main/docs/define.md",
             "author": "Anton Zhiyanov"
         },
         {
-            "title": "sqlite-url: Parsing and generating URLs",
-            "url": "https://github.com/asg017/sqlite-url",
-            "author": "Alex Garcia"
+            "title": "PocketBase: Open source backend built with Go+SQLite",
+            "url": "https://github.com/pocketbase/pocketbase",
+            "author": "Gani Georgiev"
         },
         {
-            "title": "Marmot: A distributed SQLite replicator",
-            "url": "https://github.com/maxpert/marmot",
-            "author": "Zohaib Sibte Hassan"
-        },
-        {
-            "title": "Dense vector search in SQLite?",
-            "url": "https://sqlite.org/forum/forumpost/3f6ddc34dc"
-        },
-        {
-            "title": "UPSERT language feature",
-            "url": "https://sqlite.org/lang_upsert.html"
-        },
-        {
-            "title": "How SQLite Is Tested",
-            "url": "https://www.sqlite.org/testing.html"
+            "title": "sqlitescanner: Query SQLite data from DuckDB",
+            "url": "https://github.com/duckdblabs/sqlite_scanner"
         }
     ]
 }
