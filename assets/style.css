@@ -106,6 +106,7 @@ summary {
 
     --color-blue: #008bf5;
     --color-gray: #ccc;
+    --color-darkgray: #aaa;
     --color-red: #ed7647;
     --color-yellow: #fdd000;
 }
@@ -307,6 +308,14 @@ body {
 }
 
 /* custom */
+
+.label {
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--color-darkgray);
+}
 
 .query {
     position: relative;
