@@ -1,33 +1,28 @@
 {
-    "number": "22.39",
-    "url": "https://github.com/nalgeon/sqlite-weekly/releases/22.39",
+    "number": "22.40",
+    "url": "https://github.com/nalgeon/sqlite-weekly/releases/22.40",
     "items": [
         {
-            "title": "Introducing LiteFS",
-            "url": "https://fly.io/blog/introducing-litefs/"
+            "title": "Reusing the result of user-defined function within the same query",
+            "url": "https://sqlite.org/forum/forumpost/7c84c8443c1a491c"
         },
         {
-            "title": "SQLite for Secrecy Management",
-            "url": "https://www.linuxjournal.com/content/sqlite-secrecy-management-tools-and-methods",
-            "author": "Charles Fisher"
+            "title": "Does the design of deferred transactions lead to deadlocks?",
+            "url": "https://sqlite.org/forum/forumpost/07cc5acfcc01b7f6"
         },
         {
-            "title": "mvSQLite: Distributed, MVCC SQLite on top of FoundationDB",
-            "url": "https://github.com/losfair/mvsqlite",
+            "title": "Book: SQLite Forensics",
+            "url": "https://www.amazon.com/SQLite-Forensics-Paul-Sanderson/dp/1980293074",
+            "author": "Paul Sanderson"
+        },
+        {
+            "title": "A distributed SQLite benchmark: How mvSQLite scales",
+            "url": "https://univalence.me/posts/mvsqlite-bench-20220930",
             "author": "Heyang Zhou"
         },
         {
-            "title": "Atuin: Magical shell history",
-            "url": "https://github.com/ellie/atuin",
-            "author": "Ellie Huxtable"
-        },
-        {
-            "title": "rqlite 7.7",
-            "url": "https://github.com/rqlite/rqlite/releases/tag/v7.7.0"
-        },
-        {
-            "title": "pgsqlite: A pure python module to import SQLite databases into Postgres",
-            "url": "https://github.com/bitdotioinc/pgsqlite"
+            "title": "LibSQL: an open contribution SQLite fork",
+            "url": "https://github.com/libsql/libsql"
         }
     ]
 }
